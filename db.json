@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "server 122 down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-09-11T21:47:19.651Z",
-      "id": 2
+      "id": 2,
+      "message": "Fixed server 122 was down",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-09-12T20:47:16.145Z"
     },
     {
       "message": "no 211 wireless down",
